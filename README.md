@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 <h3 align="left">My Stats:</h3>  
 
-![](https://github-readme-stats.vercel.app/api?username=thanhplassma&show_icons=true)
+[![Thanh Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhplassma)](https://github.com/thanhplassma/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhplassma&layout=compact)
