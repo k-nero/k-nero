@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 ![Thanh Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhplassma&count_private=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhplassma&layout=compact&langs_count=8)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhplassma&" alt="thanhplassma" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhplassma&count_private=true&show_icons=true&theme=radical" alt="thanhplassma" /></p>
 
 
