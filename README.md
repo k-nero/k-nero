@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔗 Contact me via <a href="https://www.facebook.com/ThanhNC.Nero/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ThanhNC.Nero" height="20" width="20" /></a> <a href="mailto:thanhnguyen2409@protonmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Gmail.svg" height="20" width="20" /></a>
 -->
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanhplassma" alt="thanhplassma" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k-nero" alt="k-nero" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 <!-- stats and langs -->
 <div align="center">
-<img height="170em" src="https://github-readme-stats-nine-rho-93.vercel.app/api?username=thanhplassma&show_icons=true&locale=en&theme=transparent&title_color=d63384&text_color=868e96&hide_border=true" alt="thanhplassma | stats" />
-<img height="170em" src="https://github-readme-stats-nine-rho-93.vercel.app/api/top-langs?username=thanhplassma&show_icons=true&locale=en&layout=compact&langs_count=10&theme=transparent&title_color=d63384&text_color=868e96&hide_border=true" alt="thanhplassma | langs" />
+<img height="170em" src="https://github-readme-stats-nine-rho-93.vercel.app/api?username=k-nero&show_icons=true&locale=en&theme=transparent&title_color=d63384&text_color=868e96&hide_border=true" alt="thanhplassma | stats" />
+<img height="170em" src="https://github-readme-stats-nine-rho-93.vercel.app/api/top-langs?username=k-nero&show_icons=true&locale=en&layout=compact&langs_count=10&theme=transparent&title_color=d63384&text_color=868e96&hide_border=true" alt="thanhplassma | langs" />
 </div>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhplassma&count_private=true&show_icons=true&theme=radical" alt="thanhplassma" /></p> -->
