@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <!-- stats and langs -->
 <div align="center">
 <img height="170em" src="https://github-readme-stats-nine-rho-93.vercel.app/api?username=k-nero&show_icons=true&locale=en&theme=transparent&title_color=d63384&text_color=868e96&hide_border=true" alt="nero | stats" />
-<img height="170em" src="https://github-readme-stats-nine-rho-93.vercel.app/api/top-langs?username=k-nero&show_icons=true&locale=en&layout=compact&langs_count=10&theme=transparent&title_color=d63384&text_color=868e96&hide_border=true&hide=html,css" alt="nero | langs" />
+<img height="170em" src="https://github-readme-stats-nine-rho-93.vercel.app/api/top-langs?username=k-nero&show_icons=true&locale=en&layout=compact&langs_count=10&theme=transparent&title_color=d63384&text_color=868e96&hide_border=true&hide=html,css,starlark" alt="nero | langs" />
 </div>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhplassma&count_private=true&show_icons=true&theme=radical" alt="thanhplassma" /></p> -->
